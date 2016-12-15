@@ -4,7 +4,7 @@ Luke here, I'm picking up Java, HTML, CSS and SQL. Not in that order and not ver
 
 This is where I'd put some nice photos.... IF I HAD ANY!!
 
-<!DOCTYPE html>
+
 <html>
   <head>
     <title>Webpage</title>

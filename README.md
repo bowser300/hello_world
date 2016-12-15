@@ -15,7 +15,7 @@ This is where I'd put some nice photos.... IF I HAD ANY!!
       <li>CPU</li>
       <li>RAM</li>
       <li>Memory</li>
-      <li>Soundcard</li>
+      <li>Extra RAM</li>
       </ul>
   </body>
   
